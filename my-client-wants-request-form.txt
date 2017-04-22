@@ -1,0 +1,16 @@
+My Client Wants
+
+Hey,
+
+I hope you're doing well.
+Just heard from the client.
+They're willing to pay us $125/hr to build a site with the following requirements.
+
+A very small header, so that the site mostly shows off the content.
+A full-width navbar which sticks to the top of the page when you scroll.
+A footer with lots of buttons and images.
+
+Is that cool?
+
+Let me know ASAP.
+Thanks!
